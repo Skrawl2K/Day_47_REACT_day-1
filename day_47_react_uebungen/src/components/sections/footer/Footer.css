@@ -1,0 +1,8 @@
+.navigation ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gold;
+    height: 100px;
+}

@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+}
+
+.main h2{
+    margin-left: 1%;
+}
+
+.main p {
+    width: 45%;
+    margin: 10%;
+}
